@@ -1,3 +1,4 @@
+A Sudoku Puzzle game written in python using efficient backtracking algorithm, with GUI using pygame.
 
 ![sudoku_solver_correct](https://user-images.githubusercontent.com/20014921/107883794-16a86e00-6f17-11eb-9fe5-e2052043de22.PNG)
 
